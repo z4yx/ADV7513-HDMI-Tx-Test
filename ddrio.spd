@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file
+   path="ddrio_sim/altera_gpio_lite/altera_gpio_lite.sv"
+   type="SYSTEM_VERILOG"
+   library="ddrio" />
+ <file path="ddrio_sim/ddrio.v" type="VERILOG" />
+ <topLevel name="ddrio" />
+ <deviceFamily name="max10" />
+</simPackage>
